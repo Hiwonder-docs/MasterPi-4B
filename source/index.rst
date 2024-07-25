@@ -7,4 +7,4 @@
    :maxdepth: 2
    :caption: MaterPi-4B
 
-   MasterPi/MasterPi.md
+   MasterPi.md
